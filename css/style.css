@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Nunito', sans-serif;
+}
+:root{
+    --primary_color: ##0A0826;
+    --secondary-color: #3F87F5;
+}
+.btn{
+    
+}
+section{
+    padding: 100px 0;
+}
